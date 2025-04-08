@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Deepwoken Weapons</title>
+</head>
+<body style="background-color:Teal;">
+<h1>Weapons</h1>
+<p> There are differnt weapons you can use under different categorys. Light, Medium and heavy</p>
+<br>
+<p2> Light (Daggers Fists Guns Rapiers) </p2>
+<br>
+<p3> Medium (Swords Spears Clubs Rifles Twinblades)
+<br>
+<p4> Heavy (Great Axes Great Swords Great Hammers)
+<br>
+<a href="file:///C:/Users/Hamish.gayler/Documents/work_page3.htm"/>Attunement</a>
+</body>
+</html>

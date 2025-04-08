@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Deepwoken Attunement</title>
+</head>
+<body style="background-color:MediumAquaMarine;">
+<h1>Attunement</h1>
+<p> They are powers called attunements and they have they different abilitys.</p>
+<br>
+<p2> They are Flamecharm, Frostdraw, Thundercall, Galebreathe, Shadowcast, Ironsing and Bloodrend.</p2>
+<br>
+<a href="file:///C:/Users/Hamish.gayler/Documents/work_page2.htm"/>Weapons</a>
+</body>
+</html>

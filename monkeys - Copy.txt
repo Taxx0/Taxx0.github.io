@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<title>Monkeys</title>
+</head>
+<body style"background-color:DeepSkyBlue;">
+<body>
+
+<h1>Monkeys</h1>
+<p>There are 4 differnt classes of monkeys and they are Primary, Military, Magic and support.</p>
+<br>
+<h2>Primary</h2>
+
+<ol>
+<li>Dart Monkey - throws a dart to pop bloons</li>
+<li>Boomerang Monkey - throws a bommerang bloons</li>
+<li>Bomb Shooter - shoots bombs explode bloons</li>
+<li>Tack Shooter - shoots nails pop bloons</li>
+<li>Ice Monkey - when he claps ice form around him to freeze bloons</li>
+<li>Glue Gunner - has a glue gun that shoots out glue slow or disove bloons</li>
+</ol>
+<br>
+<h3>Militray</h3>
+
+<ol>
+<li>Sniper Monkey - use a snipe to shoot bloons</li>
+<li>Monkey Sub - use the gun on the sub to shoot bloons</li>
+<li>Monkey Buccaneer - use the cannons to shoot at bloons</li>
+<li>Monkey Ace - it use the guns on the plane to shoot bloons and also flying in a figure 8</li>
+<li>Heli Pilot - follow you mouse and shoots from it heli at bloons</li>
+<li>Mortar Monkey - it fires mortar shells to explode boons</li>
+<li>Dartling Gunner - uses a mini gun to fire at bloons</li>
+</ol>
+<br>
+<h4>Magic</h4>
+
+<ol>
+<li>Wizard Monkey - uses magic to pop bloons</li>
+<li>Super Moneky - throws darts really fast</li>
+<li>Ninja Monkey - throws shurikens at the bloons</li>
+<li>Alchemist - throw acid at the bloon and can throw brew to power uo the monkeys</li>
+<li>Druid - throws thorns at bloons</li>
+<li>Mermonkey - throws a trident at bloons<li>
+</ol>
+<br>
+<h5>Support</h5>
+
+<ol>
+<li>Banana Farm - drops bananas that gives you money</li>
+<li>Spike Factory - drops nails on the ground that when bloon go over they get pop</li>
+<li>Monkey Village - it gives the monkeys buffs like more range</li>
+<li>Engineer Monkey - uses a nail gun to shoot bloon and it can create sentrys or a bloon trap</li>
+<li>Beast Handler - it summons a dinosaur, shark or a hawk too </li>
+<br>
+<a href="file:///C:/Users/Hamish.gayler/Documents/btd.htm">Home page</a>

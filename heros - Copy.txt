@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Heros</title>
+</head>
+<body style"background-color:LawnGreen;">
+<body>
+
+<h1>Heros</h1>
+<p> There are 16 differnt types of heros and they all have differnt weapons and abilitys.</p>
+<br>
+<h2>The heros</h2>
+
+<ol>
+<li>Quincy- uses a bow to pop bloons</li>
+<li>Gwendolin - uses a flamethrower to burn bloons</li>
+<li>Striker Jones - use a rocket launcher to blow up bloons</li>
+<li>Obyn Greenfoot - uses spirits to pop bloons</li>
+<li>Captain Churchill - uses a tank to pop bloons</li>
+<li>Benjamin - uses a computer to hack and give you cash</li>
+<li>Ezili - uses dark art to pop bloons</li>
+<li>Pat Fusty - uses his fist to hit the bloons</li>
+<li>Adora - uses the sun energy to pop bloons</li>
+<li>Admiral Brickell - uses a revolver to shoot at bloons</li>
+<li>Etienne - uses drones to shoot at bloons</li>
+<li>Sauda - uses twin swords to slice bloons</li>
+<li>Psi - uses they mind to pop bloons</li>
+<li>Geraldo - it use it staff to zap bloons but it can also be a shop</li>
+<li>Corvus - uses the souls of the bloons to make weapons for his using</li>
+<li>Rosalia - as a gun that can shoot but also blow up bloons</li>
